@@ -9,3 +9,5 @@
 - git 下载：https://git-for-windows.github.io/
 
 - 在线 react 测试：https://codepen.io/zvona/pen/WjpKJX
+
+- ramdajs : https://http://ramdajs.com/docs
