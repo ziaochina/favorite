@@ -11,3 +11,7 @@
 - 在线 react 测试：https://codepen.io/zvona/pen/WjpKJX
 
 - ramdajs : https://http://ramdajs.com/docs
+
+- 5.X基础篇：http://www.cnblogs.com/BestMePeng/p/RxJS_learn_1.html
+
+- npm doc: https://docs.npmjs.com
